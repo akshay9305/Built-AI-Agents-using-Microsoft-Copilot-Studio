@@ -1,4 +1,4 @@
-I Agent Orchestration Using Microsoft Copilot Studio
+AI Agent Orchestration Using Microsoft Copilot Studio
 🚀 Overview
 
 This project demonstrates the development and testing of Single Agent, Multi-Child Agent, and Multi-Parent Agent orchestration systems using Microsoft Copilot Studio.
